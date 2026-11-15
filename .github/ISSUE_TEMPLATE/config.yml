@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Development repository (issues and merge requests)
+    url: https://gitlab.com/jdavis2/grpc-over-datachannels
+    about: Generated exports are developed on GitLab; contributions land there first.
